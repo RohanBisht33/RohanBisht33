@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RohanBisht33
 - 👀 I’m interested in Python programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C++
 - 📫 How to reach me @bishtrohan33@gmail.com
 
 <!---
