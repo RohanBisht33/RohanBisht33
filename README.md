@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @RohanBisht33
-- 👀 I’m interested in Python programming
-- 🌱 I’m currently learning C++
+- 👀 C++ enthusiast and aspiring ethical hacker
+- 🌱 Currently diving into game development and cybersecurity
+- 💻 Exploring Kali Linux and building console based games
 - 📫 How to reach me @bishtrohan33@gmail.com
 
 <!---
