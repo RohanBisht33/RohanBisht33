@@ -1,10 +1,68 @@
-- 👋 Hi, I’m @RohanBisht33
-- 👀 C++ enthusiast and aspiring ethical hacker
-- 🌱 Currently diving into game development and cybersecurity
-- 💻 Exploring Kali Linux and building console based games
-- 📫 How to reach me @bishtrohan33@gmail.com
+<!-- Banner (Optional) -->
+<p align="center">
+    <img src="https://your-image-url.com/banner.png" alt="Banner Image">
+</p>
 
-<!---
-RohanBisht33/RohanBisht33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hey, I'm RB! 👋</h1>
+
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Cybersecurity+%7C+Game+Development+%7C+AI;Always+Learning%2C+Always+Building;Welcome+to+My+GitHub+Profile!+%F0%9F%91%8B" alt="Typing Animation" />
+</div>
+
+---
+
+## 🎯 **About Me**
+- 🎓 **BTech CSE** | **MGMCOET (AKTU)**
+- 💻 **C++ Game Dev & Cybersecurity Enthusiast**
+- 🏆 **GDG Hackathon (3rd Place Winner)**
+- 🚀 **Currently diving into Web Dev and Networking**
+- 🔒 **Passionate about Ethical Hacking & AI-driven RPGs**
+
+---
+
+## 💻 **Tech Stack & Skills**  
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,java,ubuntu,linux,github" alt="Tech Stack">
+</div>
+
+---
+
+## 🏆 **Projects & Achievements**  
+
+✅ **GDG On-Campus Hackathon Winner** (Top 3) 🏅  
+✅ **Built a Dynamic QR Code Identity System** 🔄  
+✅ **Developed a Text-Based RPG with AI Opponents** 🕹  
+✅ **Currently Learning Networking for Web-Based Games** 🎮  
+
+---
+
+## 📊 **GitHub Highlights**  
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=RohanBisht33&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400px"/>
+</div>
+
+---
+
+## 🌍 **Connect with Me**  
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/rohan-bisht-0735771a1/">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://x.com/im_rb28">
+        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="X(Twitter)">
+    </a>
+    <a href="https://github.com/RohanBisht33">
+        <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+</div>
+
+---
+
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%E2%9C%8C%EF%B8%8F;Feel+free+to+explore+my+projects!+%F0%9F%93%9A;" alt="Thank You Animation" />
+</div>
+
+> 🔥 _"Build, Learn, and Evolve. The journey never stops!"_ 🚀  
