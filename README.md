@@ -1,7 +1,3 @@
-<!-- Banner (Optional) -->
-<p align="center">
-    <img src="https://your-image-url.com/banner.png" alt="Banner Image">
-</p>
 
 <h1 align="center">Hey, I'm RB! 👋</h1>
 
