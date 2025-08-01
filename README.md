@@ -9,7 +9,7 @@
 
 ## 🎯 **About Me**
 - 🎓 **BTech CSE** | **MGMCOET (AKTU)**
-- 💻 **C++ Game Dev & Cybersecurity Enthusiast**
+- 💻 **C++ Game Dev & Machine Learning Enthusiast**
 - 🏆 **GDG Hackathon (3rd Place Winner)**
 - 🚀 **Currently diving into Web Dev and Networking**
 - 🔒 **Passionate about Ethical Hacking & AI-driven RPGs**
