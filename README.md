@@ -12,7 +12,7 @@
 - 💻 **C++ Game Dev & Machine Learning Enthusiast**
 - 🏆 **GDG Hackathon (3rd Place Winner)**
 - 🚀 **Currently diving into Web Dev and Networking**
-- 🔒 **Passionate about Ethical Hacking & AI-driven RPGs**
+- 🔒 **Passionate about Machine Learning & AI-driven RPGs**
 
 ---
 
