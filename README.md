@@ -2,7 +2,7 @@
 <h1 align="center">Hey, I'm RB! 👋</h1>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Machine+Learning+%7C+Game+Development+%7C+AI;Always+Learning%2C+Always+Building;Welcome+to+My+GitHub+Profile!+%F0%9F%91%8B" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Machine+Learning+%7C+Game+Development;Welcome+to+My+GitHub+Profile!+%F0%9F%91%8B" alt="Typing Animation" />
 </div>
 
 ---
