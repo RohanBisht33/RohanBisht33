@@ -18,7 +18,7 @@
 ## 💻 **Tech Stack & Skills**  
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,java,ubuntu,linux,github" alt="Tech Stack">
+    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,ubuntu,linux,github" alt="Tech Stack">
 </div>
 
 ---
