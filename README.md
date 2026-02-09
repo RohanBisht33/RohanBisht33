@@ -11,7 +11,6 @@
 - 🎓 **BTech CSE** | **MGMCOET (AKTU)**
 - 💻 **C++ Game Dev & Machine Learning Enthusiast**
 - 🏆 **GDG Hackathon (3rd Place Winner)**
-- 🚀 **Currently diving into Web Dev and Networking**
 - 🔒 **Passionate about Machine Learning & AI-driven RPGs**
 
 ---
@@ -27,9 +26,7 @@
 ## 🏆 **Projects & Achievements**  
 
 ✅ **GDG On-Campus Hackathon Winner** (Top 3) 🏅  
-✅ **Built a Dynamic QR Code Identity System** 🔄  
-✅ **Developed a Text-Based RPG with AI Opponents** 🕹  
-✅ **Currently Learning Networking for Web-Based Games** 🎮  
+✅ **Built a Dynamic QR Code Identity System** 🔄   
 
 ---
 
