@@ -33,7 +33,7 @@
 ## 📊 **GitHub Highlights**  
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=RohanBisht33&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400px"/>
+      <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false">    <img  alt="RohanBisht33's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/RohanBisht33?cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false" />  </a>
 </div>
 
 ---
