@@ -58,8 +58,11 @@
 ## ◈ GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RohanBisht33&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RohanBisht33&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd&langs_count=6" />
+
+![Contributions](https://img.shields.io/badge/Total_Contributions-832-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![Longest Streak](https://img.shields.io/badge/Longest_Streak-20_Days-7c3aed?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117)
+![Since](https://img.shields.io/badge/Coding_Since-Dec_2020-f472b6?style=for-the-badge&logo=calendar&logoColor=white&labelColor=0d1117)
+
 </div>
 
 ---
