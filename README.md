@@ -58,12 +58,20 @@
 ## ◈ GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RohanBisht33&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&rank_icon=github&cache_seconds=1800" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=RohanBisht33&theme=midnight-purple&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />
+
+![Contributions](https://img.shields.io/badge/Total_Contributions-832-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![Longest Streak](https://img.shields.io/badge/Longest_Streak-20_Days-7c3aed?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117)
+![Since](https://img.shields.io/badge/Coding_Since-Dec_2020-f472b6?style=for-the-badge&logo=calendar&logoColor=white&labelColor=0d1117)
+
 </div>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanBisht33&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd&langs_count=6&cache_seconds=1800" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RohanBisht33&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&rank_icon=github&cache_seconds=1800" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanBisht33&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd&langs_count=6&cache_seconds=1800" />
+</div>
+
+<div align="center">
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=RohanBisht33&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" />
 </div>
 
 ---
