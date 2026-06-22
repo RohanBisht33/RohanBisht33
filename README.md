@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header Banner — bg matched to GitHub dark (#0d1117) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0533,100:2d0a6e&height=200&section=header&text=Rohan%20Bisht&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Java%20Backend%20Engineer%20%7C%20Systems%20Architect&descAlignY=58&descSize=22&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0533,100:2d0a6e&height=200&section=header&text=Rohan%20Bisht&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Java%20Backend%20Engineer%20&descAlignY=58&descSize=22&animation=fadeIn" />
 
 <!-- Typing Animation (herokuapp — more reliable on GitHub) -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=☕+Java+Backend+Developer;🏗️+Systems+Architecture+%26+Design+Patterns;⚙️+Building+Decoupled%2C+Scalable+Engines;🚀+BTech+CSE+%40+MGMCOET+(AKTU)" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=☕+Java+Backend+Developer;🏗️+Software+Developer;⚙️+Building+Decoupled%2C+Scalable+Engines;🚀+BTech+CSE+%40+MGMCOET+(AKTU)" alt="Typing Animation" />
 
 
 
@@ -25,16 +25,16 @@
 <div align="center">
 
 ### ☕ Core Languages
-<img src="https://skillicons.dev/icons?i=java,cpp,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python&theme=dark" />
 
 ### 🛠️ Backend & Tools
-<img src="https://skillicons.dev/icons?i=spring,maven,gradle,git,github,linux,ubuntu,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=spring,maven,git,github,linux,ubuntu&theme=dark" />
 
 ### 🗄️ Data & Infrastructure
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,docker,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker&theme=dark" />
 
 ### 🧰 Dev Environment
-<img src="https://skillicons.dev/icons?i=idea,vscode,vim&theme=dark" />
+<img src="https://skillicons.dev/icons?i=idea,vscode&theme=dark" />
 
 </div>
 
@@ -109,8 +109,6 @@ Performance Engineering ──────────────────�
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-Advanced_Internals-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=0d1117)
 ![JVM](https://img.shields.io/badge/JVM-Tuning_%26_GC-7c3aed?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d1117)
-![Design Patterns](https://img.shields.io/badge/GoF-Design_Patterns-a78bfa?style=for-the-badge&logo=java&logoColor=white&labelColor=0d1117)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-Event_Streaming-231F20?style=for-the-badge&logo=apachekafka&logoColor=white&labelColor=0d1117)
 
 </div>
 
